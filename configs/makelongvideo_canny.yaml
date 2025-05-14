@@ -1,0 +1,62 @@
+pretrained_model_path: "./checkpoints/stable-diffusion-v1-5"
+output_dir: "./outputs/slam_synthetic2_canny"
+
+train_data:
+  video_dir: "/work/zura-storage/Data/DrivingSceneDDM/"
+  train_list: "/work/zura-storage/Workspace/DgTDM/dataset_scripts/train_frame.txt"
+  n_sample_frames: 24
+  width: 128 
+  height: 128
+  sample_start_idx: 0
+  sample_frame_rate: 2
+
+validation_data:
+  prompts:
+    - "A vehicle driving in-road in a small town with a river and several bridges; rainly, cloudy town surroundings"
+    - "A vehicle driving in-road in a busy metropolitan environment with skyscrapers; sunny noon city surroundings"
+    - "A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer."
+    - "A vehicle driving in-road in a real-world less concentrated part of a city, cloudy noon city surroundings"
+  start_depth_file:
+    - "/work/zura-storage/Data/DrivingSceneDDM/depth/carla_01/000000.npy"
+    - "/work/zura-storage/Data/DrivingSceneDDM/depth/gta_01/000000.npy"
+    - "/work/zura-storage/Data/DSDDM_XL/depth/B9/000995.npy"
+    - "/work/zura-storage/Data/DrivingSceneDDM/depth/nus_01/000000.npy"
+  start_canny_file:
+    - "/work/zura-storage/Data/DrivingSceneDDM/canny/carla_01/000000.png"
+    - "/work/zura-storage/Data/DrivingSceneDDM/canny/gta_01/000000.png"
+    - "/work/zura-storage/Data/DSDDM_XL/canny/B9/000995.png"
+    - "/work/zura-storage/Data/DrivingSceneDDM/canny/nus_01/000000.png"
+  video_length: 24
+  width: 128
+  height: 128
+  num_inference_steps: 50
+  guidance_scale: 12.5
+  use_inv_latent: False
+  num_inv_steps: 50
+
+#learning_rate: 3e-5
+learning_rate: 1e-4
+train_batch_size: 8
+max_train_steps: 20000
+checkpointing_steps: 50
+validation_steps: 200
+trainable_modules:
+  - "temporal_conv"
+  - "attn1.to_q"
+  - "attn2.to_q"
+  - "attn_temp"
+  - "rel_pos_bias"
+
+seed: 33
+mixed_precision: fp16
+use_8bit_adam: False
+gradient_checkpointing: True
+enable_xformers_memory_efficient_attention: True
+gradient_accumulation_steps: 50
+use_offset_noise: False
+offset_noise_strength: 0.1
+control_use_depth: False
+control_use_canny: True
+
+# resume_from_checkpoint: "outputs/slam_synthetic3/checkpoint-100"
+resume_from_checkpoint: "latest"

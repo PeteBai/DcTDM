@@ -1,0 +1,14 @@
+/mnt/data/dataset/depth/gta_01/001610.npy x-x A vehicle driving in-road in a busy metropolitan environment with skyscrapers; sunny noon city surroundings.
+/mnt/data/dataset/depth/gta_01/001610.npy x-x A vehicle driving in-road in a busy city environment with mostly residential buildings; earily evening city surroundings.
+/mnt/data/dataset/depth/gta_01/001610.npy x-x A vehicle driving in-road in a busy metropolitan environment with skyscrapers; sunny noon city surroundings.
+/mnt/data/dataset/depth/gta_01/001610.npy x-x A vehicle driving in-road near a busy city airport with billboards, road signs, hotels and bridges; sunny noon urban surroundings."
+/mnt/data/dataset/depth/gta_05/000100.npy x-x A vehicle driving off-road on a mountain with sparse trees and uneven terrians, sunny noon mountain surroundings.
+/mnt/data/dataset/depth/carla_01/000194.npy x-x A vehicle driving in-road in a small town with a river and several bridges; rainly, cloudy town surroundings.
+/mnt/data/dataset/depth/carla_01/000194.npy x-x A vehicle driving in-road in a large urban with a roundabout and large junctions; sunny noon urban surroundings.
+/mnt/data/dataset/depth/carla_01/000194.npy x-x A vehicle driving in-road on long many lane highways with many highway entrances and exits; sunny early evening forest surroundings.
+/mnt/data/dataset/depth/carla_01/000194.npy x-x A vehicle driving in-road in a downtown urban environment with skyscrapers, residential buildings and an ocean promenade; sunny noon urban surroundings.
+/mnt/data/dataset/depth/carla_01/000194.npy x-x A vehicle driving in-road in a squared grid town with cross junctions and a bridge with multiple lanes per direction; sunny urban surroundings.
+/mnt/data/dataset/depth/nus_02/000275.npy x-x A vehicle driving in-road in a real-world less concentrated part of a city, cloudy noon city surroundings.
+/mnt/data/dataset/depth/nus_02/000275.npy x-x A vehicle driving in-road in a real-world city with light traffic, sunny afternoon city surroundings.
+
+

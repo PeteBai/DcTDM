@@ -1,0 +1,2 @@
+/mnt/data/dataset/depth/gta_04/000217.npy x-x A vehicle driving in-road near a busy city airport with billboards, road signs, hotels and bridges; sunny noon urban surroundings.
+/mnt/data/dataset/depth/kitti_02/0000000010.npy x-x A vehicle driving in-road in a real-world residential neighborhood, consists mainly with condos and apartments with side parking cars and trees; sunny noon urban surroundings.

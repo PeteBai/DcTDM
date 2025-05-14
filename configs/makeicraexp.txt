@@ -1,0 +1,605 @@
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/001448.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/005185.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/007474.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/013409.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B0/019115.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/003110.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/009811.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/020992.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/032314.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B1/036984.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/004966.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/007144.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/017137.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/020464.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B2/024402.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/009691.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/016115.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/017364.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/020132.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B3/023629.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/003376.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/011108.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/020459.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/037582.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B4/040449.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/005761.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/007462.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/012303.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/014754.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B5/024286.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/006721.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/011371.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/014902.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/016322.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B6/019613.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/010399.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/014145.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/017561.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/023875.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B7/031257.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/004113.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/006540.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/011233.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/013190.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B8/015906.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/028191.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/047311.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/053512.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/063902.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B9/085653.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/000759.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/002848.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/007845.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/009774.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon dawn city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny afternoon city surroundings in winter.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with light traffic in Boston, night city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, sunny noon city surroundings in summer with skyscrapers.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with light traffic in downtown Boston, cloudy afternoon city surroundings in winter with visible snow on the side of the road.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny late afternoon city surroundings in fall.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in downtown Boston, cloudy morning city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with light traffic in Boston, cloudy afternoon urban surroundings in spring.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with moderate traffic in Boston, sunny noon city surroundings in summer.
+/work/zura-storage/Data/DSDDM_XL/depth/B10/013682.npy x-x A vehicle driving in-road with light traffic in Boston, sunny noon city surroundings in spring.
