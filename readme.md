@@ -71,7 +71,7 @@ TORCH_DISTRIBUTED_DEBUG=DETAIL accelerate launch train.py --config configs/makel
 
 ## Model Inference
 
-You can either use your own checkpoints or a downloaded one. Don't forget to **unwrap** the checkpoint before any inference! To download our pre-trained checkpoints, visit this [website](https://www.bing.com/search?q=what+should+i+do+if+i+can%27t+find+a+pretrained+checkpoint+reddit&FORM=AWRE). **Note 1:** You will need a series of depth file for the inference. To learn how to estimate depth from a video, continue reading. **Note 2:** You ight need to edit ```pretrained_model_path``` in ```infer.py``` if you unwrapped the checkpoint to a different location than ```./outputs/makelongvideo/```.
+You can either use your own checkpoints or a downloaded one. Don't forget to **unwrap** the checkpoint before any inference! To download our pre-trained checkpoints, use this [link](https://zzzura-secure.duckdns.org/downloads/checkpoints.zip). **Note 1:** You will need a series of depth file for the inference. To learn how to estimate depth from a video, continue reading. **Note 2:** You ight need to edit ```pretrained_model_path``` in ```infer.py``` if you unwrapped the checkpoint to a different location than ```./outputs/makelongvideo/```.
 
 In ```infer.py``` you will find all sorts of options:
 
